@@ -3,7 +3,7 @@ title: "Ginを理解するためにnet/httpを触るやつ 1"
 emoji: "🐣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Go", "シリーズ", "初心者"]
-published: false
+published: true
 ---
 
 # はじめに
