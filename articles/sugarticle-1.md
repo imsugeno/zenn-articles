@@ -42,7 +42,7 @@ Gin 1.7.4
         └── route_hello.go
 ```
 
-### main.go
+### go:main.go
 ```
 package main
 
@@ -56,7 +56,7 @@ func main() {
 }
 ```
 
-### handler.go
+### go:handler.go
 ```
 package handler
 
@@ -75,7 +75,7 @@ func NewGinEngin() *gin.Engine {
 }
 ```
 
-### route_hello.go
+### go:route_hello.go
 ```
 package handler
 
@@ -94,7 +94,7 @@ func bindRouteOfHello(r *gin.RouterGroup) {
 }
 ```
 
-## net/httpでの実装
+## go:net/httpでの実装
 リポジトリ：https://github.com/imsugeno/net-http
 
 ディレクトリ構成
@@ -109,7 +109,7 @@ func bindRouteOfHello(r *gin.RouterGroup) {
         └── route_public.go
 ```
 
-### main.go
+### go:main.go
 ```
 package main
 
@@ -127,7 +127,7 @@ func main() {
 }
 ```
 
-### route_public.go
+### go:route_public.go
 ```
 package handler
 
