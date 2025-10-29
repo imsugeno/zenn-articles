@@ -15,7 +15,7 @@ published: false
 ![](https://storage.googleapis.com/zenn-user-upload/cf3b7dd52a8d-20251029.png =256x)
 *放置された割れ窓のように放置されたアラートは管理されない*
 
-今回はそのような状況を防ぐべく、DatadogにあるWorkflow Automationという機能に加え、Devinと連携することでログの分析や既存事象かどうかの判断、Issueの記載とそのSlack通知、対応方針の検討までを簡単に自動化できたため紹介していきます！
+今回はそのような状況を防ぐべく、DatadogのWorkflow Automationという機能からDevinに連携することで、ログの分析や既存事象かどうかの判断、Issueの記載とそのSlack通知、対応方針の検討までを簡単に自動化できたため紹介していきます！
 
 ## 構成
 
