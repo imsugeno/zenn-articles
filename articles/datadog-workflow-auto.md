@@ -246,7 +246,6 @@ SETTINGS:
 
 **新規Issue作成（A）**
 
-```
 【新規Issue作成】{{ REPO }}
 タイトル: <Issueタイトル>
 概要: <1〜2行の要約>
@@ -255,11 +254,9 @@ Issue: <Issue URL>
 Datadog: <datadog_url>
 
 #{{ REPO | split:"/" | last }} #error #from-datadog
-```
 
 **既存Issue更新（B）**
 
-```
 【既存Issue更新】{{ REPO }}（発生時刻を追記）
 タイトル: <Issueタイトル>
 追記時刻(JST): <timestamp_jst>
@@ -267,7 +264,6 @@ Issue: <Issue URL>
 Datadog: <datadog_url>
 
 #{{ REPO | split:"/" | last }} #error #from-datadog
-```
 :::
 
 ## まとめ
