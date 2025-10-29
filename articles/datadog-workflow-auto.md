@@ -45,7 +45,7 @@ https://www.datadoghq.com/product/workflow-automation/
 
 https://docs.devin.ai/product-guides/creating-playbooks#playbooks-are-easily-shareable%2C-reusable-prompts-for-repeated-tasks
 
-Playbookを利用すると、定型プロンプトとしてよく使うワーフフローをあらかじめmarkdown形式で設定することができます。これはDevinに送信するプロンプトの中でコマンド（マクロと呼ばれている）として呼び出すことができます。ClaudeCodeやCursorでいうスラッシュコマンドのような立ち位置の機能です。
+Playbookを利用すると、定型プロンプトとしてよく使うワークフローをあらかじめmarkdown形式で設定することができます。これはDevinに送信するプロンプトの中でコマンド（マクロと呼ばれている）として呼び出すことができます。ClaudeCodeやCursorでいうスラッシュコマンドのような立ち位置の機能です。
 
 Datadog Workflowから送るPOSTリクエストのBodyにIssueの分析やSlack通知などのプロンプトをすべて記載するのは大変なので、あらかじめPlaybookとして定義しておくことで送信するプロンプトを少なく抑えています。
 
