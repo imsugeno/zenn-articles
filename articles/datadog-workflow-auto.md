@@ -25,7 +25,7 @@ published: false
 
 ### Datadog Workflow Automation
 
-ワークフローの構築はDatadogの機能を利用することで、Datadogの画面上で直感的にワークフローを構築することができます。
+Datadogの機能を利用することで、画面上で直感的にワークフローを構築することができます。
 ログやアラートをDatadogで管理している場合はこれらをワークフローに組み込むことができて便利な上、Workflowの構築を補助してくれるAI機能があるため初見でも簡単に構築することができます。
 
 https://www.datadoghq.com/product/workflow-automation/
