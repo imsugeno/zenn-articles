@@ -13,7 +13,7 @@ publication_name: "canly"
 
 本来設定したアラートに対しては逐一対応したいものですが、開発タスクが多すぎてそれどころじゃない、本質的なエラーログ以外にノイズとなるログが多い、など様々な理由でエラーログのアラートが放置されてしまうこともあるかと思います。
 
-![](![](https://storage.googleapis.com/zenn-user-upload/6a4cdf1b3d79-20251029.png) =256x)
+![](https://storage.googleapis.com/zenn-user-upload/6a4cdf1b3d79-20251029.png =256x)
 *いわゆる"オオカミ少年アラート"*
 
 今回はそのような状況を防ぐべく、DatadogのWorkflow Automationという機能からDevinに連携することで、ログの分析や既存事象かどうかの判断、Issueの記載とそのSlack通知、対応方針の検討までを簡単に自動化できたため紹介していきます！
