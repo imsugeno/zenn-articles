@@ -3,7 +3,7 @@ title: "DatadogのWorkflow AutomationとDevin Playbookを使ってエラーロ�
 emoji: "🐕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["datadog", "devin"]
-published: false
+published: true
 publication_name: "canly"
 ---
 
