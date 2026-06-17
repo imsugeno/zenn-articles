@@ -3,7 +3,7 @@ title: "ヘルスチェック緑を信じてはいけない。クロスアカウ
 emoji: "🪤"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "apigateway", "privatelink", "terraform", "network"]
-published: false
+published: true
 publication_name: "canly"
 ---
 
